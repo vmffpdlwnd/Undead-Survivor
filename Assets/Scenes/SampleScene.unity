@@ -5380,7 +5380,7 @@ MonoBehaviour:
   id: 0
   prefabId: 1
   damage: 11
-  count: 1
+  count: 2
   speed: 0
 --- !u!1 &1304135933
 GameObject:
